@@ -1,7 +1,7 @@
 ## About
 
 > A tale as old as time: boy meets girl, girl asks boy to train a predictive model, boy succeeds. But when she discovers that he cannot operationalize said model, he is forced to go through a perilous journey into the strange and unfamiliar world of Azure Machine Learning deployment options. He learns to face his fears and evaluate the advantages and disadvantages of Azure Machine Learning Studio and Azure Machine Learning services, all the while hoping to redeem himself in the process.
- 
+> 
 > Will he succeed? Will he manage to find an option that allows him to deploy a trained model as a web service, scale it, and consume it easily? Let’s find out!
 
 These are the resources used for my [Boy meets Girl](https://vladiliescu.net/talks/boy-meets-girl/) talk.
