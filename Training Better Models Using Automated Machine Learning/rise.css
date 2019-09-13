@@ -1,0 +1,27 @@
+/* .output {
+    font-size: 1.2em !important;
+}*/
+
+.CodeMirror {
+    font-size: 1em !important;
+} 
+
+table.dataframe {
+    font-size: 1em;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6  {
+    /*font-family: Bebas Neue !important;*/
+    font-family: Avenir Next Medium !important;
+    font-size: 1.2em !important;
+    text-align: center;
+    /* margin-top: 170px !important; */
+}
+
+.slides .rendered_html {
+    font-family: Avenir Next Condensed
+}
+
+.output_png {
+    zoom: 1.5;
+}
