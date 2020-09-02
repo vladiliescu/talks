@@ -4,7 +4,7 @@ The differences between the two most popular (at the time) options of doing mach
 
 The two tools are evaluated from multiple viewpoints such as ease of use, level of knowledge needed for getting started, the options available for ingesting, analysing, and preparing data, the differences in training and evaluating predictive models, and the particularities of exposing the models as web services, and allowing them to be consumed securely from external applications. 
 
-A video of this talks is available on [YouTube](https://youtu.be/K5W5i6rC5Hk).
+A video of this talk is available on [YouTube](https://youtu.be/K5W5i6rC5Hk).
 
 
 ## Resources
