@@ -1,15 +1,16 @@
 Here's what you need in order to run this notebook:
 
+* Clone this repository somewhere nice
 * Create a [Kaggle](https://www.kaggle.com) account, join the [Titanic competition](https://www.kaggle.com/c/titanic/overview) competition, download its data files to the [data](./data) folder
 * Make sure you have an [Azure](https://azure.microsoft.com/en-us/) account, in it create a resource group and a [Machine Learning Service Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/) - you'll need those for running the automated machine learning experiment
-* Either fill in the template `config.json` file with your subscription details, or download a new version directly from the workspace details.
+* Download `config.json` from your Azure ML Workspace to this folder.
 * Install either [Miniconda](https://conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/downloads). The Python 3.7 version 🐍
 * Run the following commands inside this directory
 
 ```shell
-conda env create -f env.yml -n kaggle_automl
-conda activate kaggle_automl
-ipython kernel install --user
+conda env create -f env.yml -n automl_on_titanic
+conda activate automl_on_titanic
+ipython kernel install --user --name=automl_on_titanic
 
 jupyter notebook
 ```
