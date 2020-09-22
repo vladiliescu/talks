@@ -14,5 +14,4 @@ ipython kernel install --user --name=automl_on_titanic
 
 jupyter notebook
 ```
-* If everything runs fine and at the end you can open the `auto-ml-and-kaggle.ipynb` notebook then congrats, you've conquered this challenge 🥳
-* If something fails, let [me](https://github.com/vladiliescu) know about it and we'll get this sorted out.
+* If everything runs fine and at the end you can open the `auto-ml-and-kaggle.ipynb` notebook then you're good to go.
