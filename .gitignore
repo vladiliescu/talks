@@ -1,3 +1,10 @@
 .ipynb_checkpoints
+
 config.json
 submissions
+
+# AutoML 
+.azureml
+download_explanation
+automl.log
+model.pkl
