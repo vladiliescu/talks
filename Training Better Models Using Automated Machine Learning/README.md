@@ -15,3 +15,4 @@ ipython kernel install --user --name=automl_on_titanic
 jupyter notebook
 ```
 * If everything runs fine and at the end you can open the `auto-ml-and-kaggle.ipynb` notebook then you're good to go.
+* After you're finished, you can run `conda remove --name automl_on_titanic --all` to remove the environment you had created.

@@ -3,8 +3,13 @@
 config.json
 submissions
 
+
+
 # AutoML 
 .azureml
 download_explanation
 automl.log
 model.pkl
+
+# Training Better Models Using Automated Machine Learning
+Training Better Models Using Automated Machine Learning/data
